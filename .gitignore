@@ -1,0 +1,6 @@
+# macOS
+.DS_Store
+
+# STM32 / build
+firmware/build/
+firmware/.vscode/
